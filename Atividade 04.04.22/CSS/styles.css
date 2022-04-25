@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+h1{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-fill-color: black;
+    font-size: 45px;
+    font-style:normal; font-family: fantasy;color: yellow;
+}
+h2{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-fill-color: black;
+    font-style: normal;size:16cm; font-family: Verdana;color: #2f00ff; 
+}
+h3{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-fill-color: black;
+    font-style: normal;size:16cm; font-family: Verdana;color: aqua; 
+}
+h4{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-fill-color: black;
+    font-style: normal;size:16cm; font-family: Verdana;color:orangered; 
+}
+h5{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-fill-color: rgba(245, 76, 4, 0.801);
+    font-size: 35px;
+    font-style:normal; font-family: fantasy;
+    font-stretch: expanded; 
+}
+p{
+    font-style:normal; font-size: 25px; font-family: arial; color: white;
+    text-align: justify;
+    line-height: 35px;
+}
+.text{
+    position: absolute;
+    text-align:initial;
+    top: 20px;
+    width: 250px;
+}
+
+ 
+
